@@ -1,0 +1,524 @@
+[
+    {
+        "nombre": "Gafas Luminosas LED Controladas por Voz",
+        "precio": "S/43.40",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Transistor S8550",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Transistor 2N2222A",
+        "precio": "S/0.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Filamento LED Flexible (12V 600mm, 2200K)",
+        "precio": "S/40.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo Backlight RGB LCD",
+        "precio": "S/9.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Diodo Schottky SR3100 3A 100V",
+        "precio": "S/0.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Puente Rectificador KBL406 600V 4A",
+        "precio": "S/1.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "MBR20100CTG Diodo Schottky",
+        "precio": "S/2.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "DIAC DB3",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "SR5100 Diodo Schottky 5A 100V",
+        "precio": "S/0.60",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Puente Rectificador KBP307 1000V 3A",
+        "precio": "S/0.90",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Puente Rectificador KBL608 800V 6A",
+        "precio": "S/1.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Diodo SF56 5A 400V",
+        "precio": "S/0.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Diodo SF36 3A 400V",
+        "precio": "S/0.60",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "1N5819 Diodo Rectificador Schottky 1A 40V",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Diodo FR107 1A 1000V",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "KBPC1010 Puente Diodo 10A 1000V",
+        "precio": "S/2.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Diodo Rectificador 1N5408 1000V 3A",
+        "precio": "S/0.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Diodo Rectificador 1N5822 40V 3A",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Diodo Rectificador 1N5399 1000V 1.5A",
+        "precio": "S/0.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Diodo Zener de 3.3V a 24V",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Diodo FR307 HER307",
+        "precio": "S/0.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Puente Rectificador KBU1010 1000V 10A",
+        "precio": "S/2.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Lámpara Ring Led RGB 5050 WS2812 8bits",
+        "precio": "S/50.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Lámpara Ring Led RGB 5050 WS2812 24bits",
+        "precio": "S/15.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Lámpara Ring Led RGB 5050 WS2812 16bits",
+        "precio": "S/9.50",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Matriz Led RGB 5050 WS2812 16bits",
+        "precio": "S/8.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Lámpara Lineal Led RGB 5050 WS2812 8bits",
+        "precio": "S/4.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Matriz Led RGB 5050 WS2812 64bits",
+        "precio": "S/25.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Diodo Rectificador 1N4007F M7F SMAF 1.1mm",
+        "precio": "S/0.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo Led RGB SMD KY-009",
+        "precio": "S/2.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Led SMD 3W Blanco Frío",
+        "precio": "S/2.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Led SMD 3W Blanco Cálido",
+        "precio": "S/2.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Disipador de Calor Para LED SMD 1W-3W",
+        "precio": "S/0.70",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cinta LED SMD Blanco Frío 5050 Flexible 5m Permeable 12V",
+        "precio": "S/55.00",
+        "descuento": "-13%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cinta LED SMD Blanco Cálido 5050 Flexible 5m Impermeable 12V",
+        "precio": "S/65.00",
+        "descuento": "-23%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Barra Led 10 Segmentos 4 Colores 2R3Y4G1B CC",
+        "precio": "S/4.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LED Rectangular Verde 2x5x7mm",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LED Rectangular Rojo 2x5x7mm",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LED Rectangular Naranja 2x5x7mm",
+        "precio": "S/0.40",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LED Rectangular Amarillo 2x5x7mm",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Fototransistor NPN de Alta Sensibilidad ST-1KL3B",
+        "precio": "S/3.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Transistor 2N3906 PNP",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LED Naranja 3mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LED Blanco 3mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LED Azul 3mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LED RGB 5mm Ánodo Común",
+        "precio": "S/0.70",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Transistor NPN 2SD882 40V 3A",
+        "precio": "S/0.50",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "LED Amarillo 3mm",
+        "precio": "S/0.10",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LED SMD 1W Blanco Cálido",
+        "precio": "S/1.00",
+        "descuento": "-30%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Diodo 1N4148 SMD",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Diodo 1N4001",
+        "precio": "S/0.10",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Transistor 2N7000",
+        "precio": "S/1.60",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Fotodiodo Receptor Pin T-1 5mm Everlight",
+        "precio": "S/1.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Diodo Emisor Infrarrojo 5mm Power",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Puente Rectificador KBP206 600V 2A",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Transistor BC547 TO-92",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Transistor BC557 TO-92",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Fotodiodo Receptor SFH2030F",
+        "precio": "S/2.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Diodo 1N4002",
+        "precio": "S/0.10",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LED Amarillo 5mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Fotodiodo Receptor Pin T-1 3mm Everlight",
+        "precio": "S/2.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Matriz LED 8×8 3mm",
+        "precio": "S/4.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "MOSFET MTP3055VL",
+        "precio": "S/7.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Transistor 2N2222B",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Transistor TIP127",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LED Blanco 5mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LED SMD 1W Blanco",
+        "precio": "S/1.00",
+        "descuento": "-30%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LED RGB 5mm Cátodo Común",
+        "precio": "S/0.70",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Diodo 1N4148",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Diodo 1N5407",
+        "precio": "S/0.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Diodo 1N4007",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "MOSFET IRFZ44N",
+        "precio": "S/2.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LED Rojo 3mm",
+        "precio": "S/0.10",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LED Verde 3mm",
+        "precio": "S/0.10",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LED Verde 5mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LED Azul 5mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LED Rojo 5mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LED Naranja 5mm",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Transistor BC548 NPN",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Transistor BC337",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Transistor 2N3904",
+        "precio": "S/8.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Puente Rectificador 2W10",
+        "precio": "S/1.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Diodo 1N4004",
+        "precio": "S/0.10",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Diodo Láser 650nm 6mm Punto Rojo 5V",
+        "precio": "S/3.00",
+        "descuento": "-23%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Transistor TIP122",
+        "precio": "S/1.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Transistor TIP41",
+        "precio": "S/1.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    }
+]

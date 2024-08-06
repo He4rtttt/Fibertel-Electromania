@@ -1,0 +1,170 @@
+[
+    {
+        "nombre": "Pantalla Táctil LCD 7″ Raspberry Pi",
+        "precio": "S/375.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo de Pantalla a Color TFT LCD 3.5″ 320×480 ILI9488",
+        "precio": "S/102.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "DFRobot: Pantalla táctil capacitiva TFT DSI de 7” 800×480 (Compatible con Raspberry Pi 4B/3B+/3B)",
+        "precio": "S/300.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Matriz Led RGB 5050 WS2812 16bits",
+        "precio": "S/8.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Matriz Led RGB 5050 WS2812 64bits",
+        "precio": "S/25.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Case de Acrílico para Pantalla OLED 0.96",
+        "precio": "S/5.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Case para Pantalla LCD 1602",
+        "precio": "S/5.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Pantalla OLED 1.3inch con I2C",
+        "precio": "S/37.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Pantalla OLED 0.91-inch-128×32 con I2C",
+        "precio": "S/18.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Barra Led 10 Segmentos 4 Colores 2R3Y4G1B CC",
+        "precio": "S/4.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Pantalla OLED 1.5″ con I2C",
+        "precio": "S/73.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Pantalla LCD 1602 con I2C",
+        "precio": "S/17.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Pantalla LCD 1602 con Pines",
+        "precio": "S/12.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LCD 2004 para Impresoras 3D RepRapDiscount Smart Controller",
+        "precio": "S/44.00",
+        "descuento": "-7%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Display 7 Segmentos 4 Dígitos Cátodo Común 0.56″",
+        "precio": "S/3.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Pantalla LCD 7 Pulgadas para Raspberry Pi",
+        "precio": "S/230.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Pantalla LCD 2004A",
+        "precio": "S/22.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Matriz LED 8×8 3mm",
+        "precio": "S/4.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Display 7 Segmentos 4 Dígitos Cátodo Común 0.38″",
+        "precio": "S/4.00",
+        "descuento": "-25%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Display 7 Segmentos Ánodo Común 0.56″",
+        "precio": "S/0.70",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Display 7 Segmentos Cátodo Común 0.56″",
+        "precio": "S/0.90",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Matriz LED 8×8 con MAX7219",
+        "precio": "S/13.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo Display 7 Segmentos 4 Dígitos",
+        "precio": "S/6.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Pantalla TFT Touch 2.4″",
+        "precio": "S/42.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Pantalla OLED 0.96″",
+        "precio": "S/20.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Shield LCD Keypad",
+        "precio": "S/20.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Pantalla LCD 1602",
+        "precio": "S/10.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo I2C para LCD",
+        "precio": "S/8.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    }
+]

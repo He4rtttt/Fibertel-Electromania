@@ -1,0 +1,224 @@
+[
+    {
+        "nombre": "Amplificador de Audio TDA2003A",
+        "precio": "S/2.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "CD4053BE",
+        "precio": "S/2.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "74HC4050",
+        "precio": "S/4.50",
+        "descuento": "-4%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "DIP MAX232 RS232",
+        "precio": "S/2.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Decodificador HT12D",
+        "precio": "S/2.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "ULN2803A Arreglo de Transistores Darlington",
+        "precio": "S/1.80",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "L298N Controlador Puente H",
+        "precio": "S/9.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Multivibrador Monoestable Schmitt Trigger 74LS121",
+        "precio": "S/2.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "TL494CN Controlador PWM 300kHz",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "UC3843AN Controlador PWM 500kHz",
+        "precio": "S/1.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Zócalo 6 Pines para Circuito Integrado",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Zócalo 8 Pines para Circuito Integrado",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Zócalo 14 Pines para Circuito Integrado",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Zócalo 16 Pines para Circuito Integrado",
+        "precio": "S/0.40",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Zócalo 18 Pines para Circuito Integrado",
+        "precio": "S/0.40",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Zócalo 20 Pines para Circuito Integrado",
+        "precio": "S/0.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Zócalo 28 Pines Slim para Circuito Integrado",
+        "precio": "S/0.60",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Zócalo 40 Pines para Circuito Integrado",
+        "precio": "S/0.70",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Registro de Desplazamiento SN74LS165",
+        "precio": "S/2.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Compuerta AND 3 Entradas SN74LS11",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Inversor Schmitt Trigger SN74HC14",
+        "precio": "S/1.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Registro de Desplazamiento SN74HC164",
+        "precio": "S/1.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Decodificador Demultiplexor SN74LS138N",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Multiplexor SN74LS153",
+        "precio": "S/2.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Decodificador HT12D",
+        "precio": "S/3.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "IC PCF8574 Expansor E/S I2C",
+        "precio": "S/7.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Comparador de Voltaje LM339N",
+        "precio": "S/0.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Contador de Décadas SN74LS90",
+        "precio": "S/2.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Decodificador Display 7 Segmentos SN74LS48",
+        "precio": "S/2.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Contador BCD Ascendente/Descendente TTL 74LS192",
+        "precio": "S/2.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Multiplexor TTL de 8 Entradas SN74LS151",
+        "precio": "S/2.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Compuerta XNOR TTL SN74LS266",
+        "precio": "S/3.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Contador Sincrónico TTL SN74LS163",
+        "precio": "S/3.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Multivibrador Monoestable Redisparable Doble 74LS123",
+        "precio": "S/2.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Multivibrador Monoestable Redisparable 74LS122",
+        "precio": "S/3.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Controlador de Matriz Display Leds MAX7219",
+        "precio": "S/7.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Comparador Diferencial Dual LM293P PDIP-8",
+        "precio": "S/1.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    }
+]

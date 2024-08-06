@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "Batería LiPo 7.4V 1000mAH",
+        "precio": "S/40.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Conector para Baterías de 3.7V",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cargador Profesional IMAX B6AC Dual Power 80W",
+        "precio": "S/200.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Set de Accesorios para Mini Drone",
+        "precio": "S/75.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Placa de Carga Paralela para Baterías",
+        "precio": "S/15.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Motor Brushless DJI 2212 920KV",
+        "precio": "S/150.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Motor Brushless A2212 1800KV",
+        "precio": "S/57.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "ESC – 30A",
+        "precio": "S/20.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Conector XT60",
+        "precio": "S/5.00",
+        "descuento": "-30%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Probador de Baterías LiPo",
+        "precio": "S/11.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Plug Banana",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Mega 2560 – Compatible con Arduino",
+        "precio": "S/120.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    }
+]

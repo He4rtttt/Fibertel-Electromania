@@ -1,0 +1,680 @@
+[
+    {
+        "nombre": "Módulo JoyStick PS2 de Doble Eje de 9 Pines",
+        "precio": "S/6.70",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Inductor 22uH 1.5A 8x10mm",
+        "precio": "S/5.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Inductor 47uH 1A 8x10mm",
+        "precio": "S/5.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Inductor 10uH 8x10mm",
+        "precio": "S/5.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Inductor 220uH 1A 8x10mm",
+        "precio": "S/5.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Relé Songle T90 SLA-05VDC-SL-A 30A de 5 Pines",
+        "precio": "S/5.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Relé Songle T90 SLA-12VDC-SL-A 30A de 5 Pines",
+        "precio": "S/5.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Relé Songle T90 SLA-24VDC-SL-A 30A de 5 Pines",
+        "precio": "S/6.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Relé SRD 5VDC SL-C",
+        "precio": "S/2.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Kit 65pzs potenciómetro Timming con Ajuste Superior 100ohm-1Mohm",
+        "precio": "S/30.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 330µF 100V 21.5mmx13mm",
+        "precio": "S/1.10",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolitico 820µF 50V 20.2mmx13mm",
+        "precio": "S/1.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 3300µF 50V 25.5mmx18mm",
+        "precio": "S/2.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolitico 2200µF 50V 25.5mmx16mm",
+        "precio": "S/1.40",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 220µF 100V 21.5mmx13mm",
+        "precio": "S/0.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 100µF 100V 17.2mmx10mm",
+        "precio": "S/0.40",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 4700µF 16V 24mmx12mm",
+        "precio": "S/1.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolitico 3300µF 16V 20mmx12.5mm",
+        "precio": "S/0.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 2200µF 16V 19.5mmx12mm",
+        "precio": "S/0.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 1000µF 100V 35mmx18mm",
+        "precio": "S/2.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 680µF 16V 12mmx8mm",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 470µF 100V 26.7mmx16mm",
+        "precio": "S/1.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 33µF 100V 13mmx8.1mm",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 22µF 100V 12.2mmx6.5mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 10µF 400V 17.4mmx10mm",
+        "precio": "S/0.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 10µF 100V 11.7mmx6.2mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 0.22µF 50V 7mmx4mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Relé SRD-24VDC-SL-C",
+        "precio": "S/2.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Bobina Toroidal 5026 330uH 3A",
+        "precio": "S/1.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 0.1µF 50V 7mmx3.5mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolitico 4.7µF 50V 8mmx4mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 470µF 50V 17mmx10mm",
+        "precio": "S/0.40",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 4700µF 50V 36mmx18mm",
+        "precio": "S/3.10",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 220µF 50V 13.5mmx10mm",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 47µF 50V 11.5mmx6.3mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 33µF 50V 11.3mmx5mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 22µF 50V 11.3mmx5mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 22uF 400V 17.6mmx13mm",
+        "precio": "S/0.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 0.47µF 50V 8mmx3mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 47uF 400V 19mmx16mm",
+        "precio": "S/1.60",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 47uF 100V 12mmx8.2mm",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 33uF 400V 17.7mmx13mm",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 10uF 250V 13mmx8.1mm",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 3.3uF 50V 8mmx4mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 2.2uF 50V 8mmx4mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 1uF 50V 8mmx4mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 680uF 50V 21.3mmx13mm",
+        "precio": "S/0.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 470uF 16V 11mmx7mm",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 330uF 50V 17mmx10mm",
+        "precio": "S/0.40",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 330uF 16V 11mmx6mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 100uF 50V 12.5mmx8mm",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 22uF 16V 7mmx4mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 33uF 16V 7mmx4mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 10uF 16V 11mmx5mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor de Poliéster 474J-P15 400V 12.5mmx15.9mm",
+        "precio": "S/0.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor de Poliéster 334J 400V 10.4mmx16.2mm",
+        "precio": "S/0.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor de Poliéster 225J-P20 400V 16×21.2mm",
+        "precio": "S/1.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor de Poliéster 224J-P15 400V 9.2mmx16.7mm",
+        "precio": "S/0.40",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor de Poliéster 155J-P20 400V 14mmx20mm",
+        "precio": "S/0.70",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor de Poliéster 125J 400V12.7mmx21mm",
+        "precio": "S/0.60",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor de Poliéster 105J-P20 400V 12.7mmx21.7mm",
+        "precio": "S/0.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor de Poliéster 104J-P10 400V 8.5mmx11.2mm",
+        "precio": "S/0.40",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 220uF 250V 18mmx30mm",
+        "precio": "S/3.40",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 100uF 250V 25.6mmx16mm",
+        "precio": "S/1.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 47uF 250V 20.6mmx13.2mm",
+        "precio": "S/0.90",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 33uF 250V 19.7mmx10mm",
+        "precio": "S/0.60",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 22uF 250V 16.8mmx10mm",
+        "precio": "S/0.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Termistores NTC desde 1k hasta 100k",
+        "precio": "S/0.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Inductores 1uH a 470uH",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Inductor 100uH 3A para LM2596",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Inductor 33uH 3A Para LM259",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Solenoide Electromagnético JF-0530B 24V",
+        "precio": "S/27.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Solenoide Electromagnético JF-0530B 12V",
+        "precio": "S/27.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Rele SRS-05VDC-SL",
+        "precio": "S/4.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Modulo Potenciómetro 10K Ajustable",
+        "precio": "S/11.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LDR 12528 12mm",
+        "precio": "S/2.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Kit Mini Bobina de Tesla",
+        "precio": "S/20.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Kit de Resistencias de Filamento Metálico 0.25W 30 tipos 600pzs",
+        "precio": "S/15.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 1000uF 25V",
+        "precio": "S/0.50",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Relé SRD 6Vdc SL-C",
+        "precio": "S/2.80",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Trimmer RM065 5K Ohm",
+        "precio": "S/0.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Termistor NTC 10K Ohm",
+        "precio": "S/1.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 10uF 50V 7.9mmx5mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 47uF 16V 7mmx4mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Encoder Rotativo con Switch EC11 20mm",
+        "precio": "S/3.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Hilo Conductor de 12m (Acero Inoxidable)",
+        "precio": "S/35.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 10uF 25V",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 220uF 16V 8mmx6mm",
+        "precio": "S/0.30",
+        "descuento": "-33%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Potenciómetro B1M",
+        "precio": "S/1.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "20x Resistencias de Carbón 1/4W 5%",
+        "precio": "S/1.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 220uF 25V",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Potenciómetro Digital 4131-503",
+        "precio": "S/6.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Capacitores Cerámicos 50V",
+        "precio": "S/0.10",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 100uF 16V 8mmx6mm",
+        "precio": "S/0.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 1000uF 16V 12mmx8mm",
+        "precio": "S/0.40",
+        "descuento": "-25%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 1uF 250V",
+        "precio": "S/0.40",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Potenciómetro B10K",
+        "precio": "S/1.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Relé SRD 12Vdc SL-C",
+        "precio": "S/2.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Módulo Sensor de Luz con LDR",
+        "precio": "S/3.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Potenciómetro B50K",
+        "precio": "S/1.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Potenciómetro B20K",
+        "precio": "S/1.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Potenciómetro B100K",
+        "precio": "S/1.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Potenciómetro B5K",
+        "precio": "S/1.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Potenciómetro B1K",
+        "precio": "S/1.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo Encoder Rotatorio 360 grados",
+        "precio": "S/5.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Inductor 1mH",
+        "precio": "S/0.50",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Capacitor Cerámico 334pF",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 100uF 25V",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Potenciómetro Trimmer 50 – 2M Ohms",
+        "precio": "S/1.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Potenciómetro Trimpot 10K",
+        "precio": "S/2.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LDR 5mm",
+        "precio": "S/1.00",
+        "descuento": "-30%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Capacitor Electrolítico 1000uF 50V 25.5mmx12.6mm",
+        "precio": "S/0.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo Joystick",
+        "precio": "S/8.00",
+        "descuento": "-31%",
+        "disponible": "Disponible"
+    }
+]

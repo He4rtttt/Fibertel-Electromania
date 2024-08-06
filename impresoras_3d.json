@@ -1,0 +1,86 @@
+[
+    {
+        "nombre": "Switch de Límite MK7/MK8",
+        "precio": "S/0.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Micro Switch de Límite SS-5GL",
+        "precio": "S/5.10",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cinta Kapton de Alta temperatura 20mm",
+        "precio": "S/20.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cinta Kapton de Alta temperatura 10mm",
+        "precio": "S/12.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cinta Kapton de Alta temperatura 5mm",
+        "precio": "S/7.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "LCD 2004 para Impresoras 3D RepRapDiscount Smart Controller",
+        "precio": "S/44.00",
+        "descuento": "-7%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Motor NEMA 17 1.2A 40mm",
+        "precio": "S/45.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Motor NEMA 17 48mm 42BYGHW811",
+        "precio": "S/55.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Soporte para Motores NEMA 17",
+        "precio": "S/6.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Kit de brocas para PCB",
+        "precio": "S/25.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo de Final de Carrera para Impresora 3D",
+        "precio": "S/5.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Shield RAMPS 1.4 para Impresoras 3D",
+        "precio": "S/35.00",
+        "descuento": "-14%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo Shield CNC",
+        "precio": "S/15.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Mega 2560 – Compatible con Arduino",
+        "precio": "S/120.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    }
+]

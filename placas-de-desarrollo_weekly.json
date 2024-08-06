@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Cable USB 2.0 a Micro USB 1m",
+        "precio": "5.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Tarjeta de Desarrollo ARM Cortex-M3 Mini STM32F103R",
+        "precio": "230.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Programador ST-LINK V2.0",
+        "precio": "22.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Placa ARM STM32F103C8T6",
+        "precio": "38.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    }
+]

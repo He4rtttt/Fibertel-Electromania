@@ -1,0 +1,68 @@
+[
+    {
+        "nombre": "Adaptador Tipo-C a Micro USB",
+        "precio": "S/10.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Fuente para Arduino 9V 1A",
+        "precio": "S/11.50",
+        "descuento": "-17%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Adaptador de Voltaje AC/DC 12Vdc 1.5A",
+        "precio": "S/14.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Adaptador de Voltaje AC/DC 12Vdc 1A",
+        "precio": "S/14.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Adaptador Universal",
+        "precio": "S/3.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Bornera de Conexión a Plug Macho 5.5mm x 2.1mm",
+        "precio": "S/1.70",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Bornera de Conexión a Plug Hembra 5.5mm x 2.5mm",
+        "precio": "S/1.50",
+        "descuento": "-20%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Fuente para Raspberry Pi 4 con Switch ON/OFF",
+        "precio": "S/25.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "DFRobot: Adaptador de Voltaje AC/DC 5Vdc 3A USB Tipo C",
+        "precio": "S/40.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Adaptador de Voltaje AC/DC con Plug 9Vdc 1A",
+        "precio": "S/11.00",
+        "descuento": "-18%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Adaptador de Voltaje AC/DC 12Vdc 2A",
+        "precio": "S/19.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    }
+]

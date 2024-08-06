@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "nose",
+        "precio": "S/90.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "fivetel",
+        "precio": "S/40.00",
+        "descuento": "-25%",
+        "disponible": "Disponible"
+    }
+]

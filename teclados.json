@@ -1,0 +1,80 @@
+[
+    {
+        "nombre": "Teclado de Membrana 1×3",
+        "precio": "S/7.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Teclado Matricial 3×4",
+        "precio": "S/4.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Teclado Matricial 4×4 con Pulsadores",
+        "precio": "S/12.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Teclado Matricial 4×5",
+        "precio": "S/6.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Teclado 4×4 Negro",
+        "precio": "S/15.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Mini Teclado Inalámbrico",
+        "precio": "S/45.00",
+        "descuento": "-11%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Teclado de Membrana 1×3",
+        "precio": "S/5.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Teclado de Membrana 1×2",
+        "precio": "S/5.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo I2C para Teclado PCF8574",
+        "precio": "S/10.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Teclado Matricial 4×4",
+        "precio": "S/4.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Teclado Táctil de 16 Vías",
+        "precio": "S/10.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Teclado de Membrana 1×4",
+        "precio": "S/4.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Shield LCD Keypad",
+        "precio": "S/20.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    }
+]

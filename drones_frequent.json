@@ -1,0 +1,50 @@
+[
+    {
+        "precio": "S/40.00",
+        "disponible": "Disponible"
+    },
+    {
+        "precio": "S/1.50",
+        "disponible": "Disponible"
+    },
+    {
+        "precio": "S/200.00",
+        "disponible": "Disponible"
+    },
+    {
+        "precio": "S/75.00",
+        "disponible": "Disponible"
+    },
+    {
+        "precio": "S/15.00",
+        "disponible": "Disponible"
+    },
+    {
+        "precio": "S/150.00",
+        "disponible": "Disponible"
+    },
+    {
+        "precio": "S/57.00",
+        "disponible": "Disponible"
+    },
+    {
+        "precio": "S/20.00",
+        "disponible": "No disponible"
+    },
+    {
+        "precio": "S/5.00",
+        "disponible": "Disponible"
+    },
+    {
+        "precio": "S/11.50",
+        "disponible": "Disponible"
+    },
+    {
+        "precio": "S/1.50",
+        "disponible": "No disponible"
+    },
+    {
+        "precio": "S/120.00",
+        "disponible": "Disponible"
+    }
+]

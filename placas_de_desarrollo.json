@@ -1,0 +1,170 @@
+[
+    {
+        "nombre": "Módulo TTGO-T Display ESP32 CP2104 con Oled 1.14″",
+        "precio": "S/180.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "micro:bit v2 Go Bundle",
+        "precio": "S/124.90",
+        "descuento": "-4%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo De Carga y Descarga De Baterías 18650 5V 3.3V",
+        "precio": "S/35.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "NodeMCU Lua ESP8266 WIFI V3 CH340",
+        "precio": "S/30.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Quemador de ESP32-CAM",
+        "precio": "S/12.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Placa de Alimentación para ESP32 30P DEVKIT V1",
+        "precio": "S/12.00",
+        "descuento": "-8%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "ESP32S 38P NodeMCU",
+        "precio": "S/50.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "NVIDIA Jetson Nano Developer Kit",
+        "precio": "S/1,300.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "FPGA ALTERA Cyclone II EP2C5T144",
+        "precio": "S/300.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Programador FPGA CPLD ALTERA USB Blaster",
+        "precio": "S/24.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Placa Base Para NodeMCU Lua ESP8266 V3",
+        "precio": "S/12.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "ESP32 WROOM-32 8M 64Mbit",
+        "precio": "S/15.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Módulo ESP32-C3 WROOM 4MB – (PCB Antenna)",
+        "precio": "S/21.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Gravity: Sensor de Visión Artificial con IA Fácil de Usar – HUSKYLENS",
+        "precio": "S/290.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "WeMos Mini D1 ESP8266",
+        "precio": "S/24.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "WeMos D1 ESP8266",
+        "precio": "S/35.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Serial de USB a TTL",
+        "precio": "S/12.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable USB 2.0 a Micro USB 1m",
+        "precio": "S/5.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Tarjeta de Desarrollo ARM Cortex-M3 Mini STM32F103R",
+        "precio": "S/230.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Kit ESP8266 ESP-01S con Adaptador USB",
+        "precio": "S/20.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "NodeMCU ESP8266",
+        "precio": "S/35.00",
+        "descuento": "-14%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "ESP32-CAM OV2640",
+        "precio": "S/65.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Programador ST-LINK V2.0",
+        "precio": "S/22.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo ESP8266 ESP-01S con Relé",
+        "precio": "S/22.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "ESP32 Devkit V1 30P",
+        "precio": "S/45.00",
+        "descuento": "-16%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Makey Makey Compatible",
+        "precio": "S/100.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Placa ARM STM32F103C8T6",
+        "precio": "S/38.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "FPGA DE10-Lite",
+        "precio": "S/650.00",
+        "descuento": "-8%",
+        "disponible": "No disponible"
+    }
+]

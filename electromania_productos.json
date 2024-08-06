@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "Sensor de Huella Digital FPM10A",
+        "precio": "S/90.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Controlador de Servos PCA9685",
+        "precio": "S/40.00",
+        "descuento": "-25%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo Driver ULN2003",
+        "precio": "S/6.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Driver A4988 con Disipador",
+        "precio": "S/10.00",
+        "descuento": "-5%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo Shield CNC",
+        "precio": "S/15.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "SSR Relé Estado Sólido de 4 Canales",
+        "precio": "S/42.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "SSR Relé Estado Sólido de 2 Canales",
+        "precio": "S/22.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "SSR Relé Estado Sólido de 1 Canal",
+        "precio": "S/11.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo Relé de 4 Canales",
+        "precio": "S/20.00",
+        "descuento": "-20%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo Relé de 2 Canales",
+        "precio": "S/12.00",
+        "descuento": "-29%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo I2C para LCD",
+        "precio": "S/8.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo Joystick",
+        "precio": "S/8.00",
+        "descuento": "-31%",
+        "disponible": "Disponible"
+    }
+]

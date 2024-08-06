@@ -1,0 +1,398 @@
+[
+    {
+        "nombre": "Cable para Pantalla Raspberry Pi 5 200mm – Sparkfun",
+        "precio": "S/15.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Gravity: Cable I2C/UART PH2.0 a DuPont Macho de 4 pines – 30cm",
+        "precio": "S/3.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Gravity: Cable Analógico PH2.0 a DuPont Macho de 3 pines – 30cm",
+        "precio": "S/3.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Gravity: Cable Digital PH2.0 a DuPont Macho de 3 pines – 30cm",
+        "precio": "S/3.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable para Cámara de Raspberry Pi Zero",
+        "precio": "S/15.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Gravity: Cable para Sensor I2C/UART de 4 Pines",
+        "precio": "S/3.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Extensión de Servo – 150mm",
+        "precio": "S/3.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Conector XH2.54 Recto 6 Pines Con Cable 26AWG 20cm",
+        "precio": "S/2.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Conector XH2.54 Recto 5 Pines Con Cable 26AWG 20cm",
+        "precio": "S/1.60",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Conector XH2.54 Recto 4 Pines Con Cable 26AWG 20cm",
+        "precio": "S/1.40",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Conector XH2.54 Recto 3 Pines Con Cable 26AWG 20cm",
+        "precio": "S/1.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Conector XH2.54 Recto 2 Pines Con Cable 26AWG 20cm",
+        "precio": "S/0.80",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Conector JST BEC RCY 170mm",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable USB 3.0 a Tipo-C",
+        "precio": "S/13.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Cable USB A a B para Arduino Uno Mega",
+        "precio": "S/9.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Mini USB",
+        "precio": "S/10.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Dupont Macho – Macho 40cm",
+        "precio": "S/7.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Dupont Macho – Hembra 40cm",
+        "precio": "S/7.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Rojo Siliconado Multinúcleo 20AWG 1m",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Negro Siliconado Multinúcleo 22AWG 1m",
+        "precio": "S/1.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Negro Siliconado Multinúcleo 20AWG 1m",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Rojo Siliconado Multinúcleo 22AWG 1m",
+        "precio": "S/1.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Flat de 15 Pines para Cámara Raspberry Pi 40cm",
+        "precio": "S/6.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Flat 15 Pines para Cámara Raspberry Pi FFC FPC 1m",
+        "precio": "S/12.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable de Nucleo Sólido 30AWG Color Purpura 5m",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable de Nucleo Sólido 30AWG Color Plomo 5m",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable de Nucleo Sólido 30AWG Color Negro 5m",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable de Nucleo Sólido 30AWG Color Naranja 5m",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable de Nucleo Sólido 30AWG Color Marrón 5m",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Puntas de Prueba para Multímetro Digital 1000V 10A",
+        "precio": "S/8.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Punta de Prueba para Multímetro LCR Patch Capacitancia e inductancia SMD",
+        "precio": "S/15.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cinta LED SMD Blanco Frío 5050 Flexible 5m Permeable 12V",
+        "precio": "S/55.00",
+        "descuento": "-13%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cinta LED SMD Blanco Cálido 5050 Flexible 5m Impermeable 12V",
+        "precio": "S/65.00",
+        "descuento": "-23%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable USB de A-B de 50cm",
+        "precio": "S/3.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable USB a Micro-USB 50cm",
+        "precio": "S/3.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Cable OTG Micro USB a USB",
+        "precio": "S/6.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable de Poder 1.8m",
+        "precio": "S/6.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Cocodrilo 50cm",
+        "precio": "S/1.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Cable Serial de USB a TTL",
+        "precio": "S/12.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable USB a Tipo C",
+        "precio": "S/7.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Cable USB 2.0 a Micro USB 1m",
+        "precio": "S/5.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Set Jumper de 140 Piezas",
+        "precio": "S/11.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable de Nucleo Sólido 30 AWG Color Rojo – 5m",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable de Nucleo Sólido 30 AWG Color Verde – 5m",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable de Nucleo Sólido 30 AWG Color Azul – 5m",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable de Nucleo Sólido 30 AWG Color Blanco – 5m",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable de Nucleo Sólido 30 AWG Color Amarillo – 5m",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Dupont Macho – Macho 15cm",
+        "precio": "S/4.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Dupont Macho – Hembra 15cm",
+        "precio": "S/5.00",
+        "descuento": "-10%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Dupont Hembra – Hembra 15cm",
+        "precio": "S/5.00",
+        "descuento": "-10%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable HDMI a Micro HDMI",
+        "precio": "S/13.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Set de Cables Jumper Macho – Macho de 65 Piezas",
+        "precio": "S/7.00",
+        "descuento": "-7%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Flat de 40 Pines Hembra – Hembra 25cm",
+        "precio": "S/5.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable USB 2.0 de Tipo B a Tipo A con Filtro 1m",
+        "precio": "S/6.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Banana Banana",
+        "precio": "S/16.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "10x Cables Cocodrilo 50cm",
+        "precio": "S/8.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Cable USB a Mini USB con Filtro – 1.80m",
+        "precio": "S/9.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Dupont Macho – Macho 10cm",
+        "precio": "S/4.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Dupont Hembra – Hembra 10cm",
+        "precio": "S/4.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Dupont Macho – Hembra 10cm",
+        "precio": "S/4.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Dupont Macho – Hembra 20cm",
+        "precio": "S/6.00",
+        "descuento": "-17%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Dupont Hembra – Hembra 20cm",
+        "precio": "S/6.00",
+        "descuento": "-17%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Dupont Macho – Macho 20cm",
+        "precio": "S/6.00",
+        "descuento": "-17%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable HDMI a HDMI",
+        "precio": "S/8.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Flat de 40 Pines Hembra – Hembra 21cm",
+        "precio": "S/5.00",
+        "descuento": "-10%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cable Ethernet UTP con RJ45 – 1m",
+        "precio": "S/5.00",
+        "descuento": "-40%",
+        "disponible": "Disponible"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "nombre": "Módulo Inalámbrico NRF24L01 + PA + LNA con Antena",
+        "precio": "S/20.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo LoRa Ra-02 SX1278",
+        "precio": "S/45.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo Bluetooth HC-06",
+        "precio": "S/30.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Conector SMA Hembra Horizontal BWSMA-KWE-Z001",
+        "precio": "S/2.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Conector SMA Hembra vertical KH-SMA-KE-Z",
+        "precio": "S/2.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo GPRS GSM SIM800L",
+        "precio": "S/35.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Puntas de Prueba para Multímetro Digital 1000V 10A",
+        "precio": "S/8.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Control Remoto de 4 Canales 433MHz con IC 2262/2272",
+        "precio": "S/26.40",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Kit ESP8266 ESP-01S con Adaptador USB",
+        "precio": "S/20.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "NodeMCU ESP8266",
+        "precio": "S/35.00",
+        "descuento": "-14%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Bluetooth BLE 4.0 AT-09",
+        "precio": "S/22.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo ESP8266 ESP-01S con Relé",
+        "precio": "S/22.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo Bluetooth HC-05",
+        "precio": "S/30.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo GSM/GPRS SIM900",
+        "precio": "S/120.00",
+        "descuento": "-21%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Wi-Fi ESP8266 ESP-01S",
+        "precio": "S/18.00",
+        "descuento": "-28%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Mando PS2",
+        "precio": "S/50.00",
+        "descuento": "-40%",
+        "disponible": "No disponible"
+    }
+]

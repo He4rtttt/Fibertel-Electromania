@@ -1,0 +1,434 @@
+[
+    {
+        "nombre": "Pilares de Cobre Esencial M3 + Tuercas para Carritos Inteligentes",
+        "precio": "S/34.60",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Gafas Luminosas LED Controladas por Voz",
+        "precio": "S/43.40",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Set de Engranajes de Plástico para Motores 92pzs",
+        "precio": "S/30.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Set de Engranajes de Plástico para Motores 0.5 72pzs",
+        "precio": "S/17.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Rueda de Goma con Textura 2x30mm",
+        "precio": "S/1.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Ventilador de Hélice de Aire de Tres Aspas Estándar con Orificio de 2mm",
+        "precio": "S/1.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Tuerca M3 Hexagonal Galvanizada 4.8",
+        "precio": "S/0.30",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Kit de Carrito de Carrera 4WD",
+        "precio": "S/17.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Kit de Robot para Evitar Obstáculos con Ultrasonidos – Negro",
+        "precio": "S/40.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Kit de Robot para Evitar Obstáculos con Ultrasonidos – Amarillo",
+        "precio": "S/40.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Kit de Robot para Evitar Obstáculos con Ultrasonidos – Verde",
+        "precio": "S/40.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Kit de Robot para Evitar Obstáculos con Ultrasonidos – Rojo",
+        "precio": "S/40.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Llanta Amarilla",
+        "precio": "S/4.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Llanta Mecanum (80 mm) – Derecha",
+        "precio": "S/10.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Controlador de Motor y Luz con Python (V1.0)",
+        "precio": "S/50.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Llanta Mecanum (80 mm) – Izquierda",
+        "precio": "S/10.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Chasis de Robot con Orugas – Black Gladiator",
+        "precio": "S/190.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "2x Soporte de Micro Motorreductor Metálico – Pololu",
+        "precio": "S/18.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Kit Robot Zumo para Arduino (Sin Motores) – Pololu",
+        "precio": "S/250.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo Matriz Sensor de Reflectancia – Pololu",
+        "precio": "S/70.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Micro Motorreductor Metálico 100:1 HPCB 6V – Pololu",
+        "precio": "S/100.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Kit Chasis Zumo (Sin Motores) – Pololu",
+        "precio": "S/90.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "2x Módulo Sensor de Reflectancia QTR-1A – Pololu",
+        "precio": "S/25.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Par de Codificadores Magnéticos con Conector de Entrada Lateral para Micromotores de Engranajes Metálicos, 12 CPR, 2, 7-18 V",
+        "precio": "S/40.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Protoboard 830 Puntos – Pololu",
+        "precio": "S/28.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Llanta Solarbotics RW2 (Tornillo de fijación Externo) – Pololu",
+        "precio": "S/25.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Micro Motorreductor Metálico 30:1 HPCB 6V – Pololu",
+        "precio": "S/100.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "2x Soporte de Micro Motorreductor Metálico – Pololu",
+        "precio": "S/25.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "2x Llantas con Puas Tamiya 70194 – Pololu",
+        "precio": "S/60.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo Driver Dual Motor TB6612FNG – Pololu",
+        "precio": "S/25.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo Driver Dual Motor DRV8835 – Pololu",
+        "precio": "S/25.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo Matriz de Sensores de Reflectancia QTR-8A – Pololu",
+        "precio": "S/50.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Micro Motorreductor Metálico 10:1 HPCB 6V – Pololu",
+        "precio": "S/106.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Batería Alcalina Recargable AA 1.5V",
+        "precio": "S/9.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Batería Li-Ion LS16340 3.7V 2800mAh",
+        "precio": "S/20.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Batería 18650 3.7V 99900mAh",
+        "precio": "S/40.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Módulo Matriz de Sensores de Reflectancia QTR-8RC – Pololu",
+        "precio": "S/50.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Brazo Robótico 6DOF de Aluminio + Servos",
+        "precio": "S/800.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Destornillador Plano 3mm Mango Transparente",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Destornillador Estrella 3mm Mango Transparente",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cargador de Batería de Litio Doble Ranura 18650 3.7V",
+        "precio": "S/12.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Protoboard SYB-120 Azul Transparente",
+        "precio": "S/16.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Protoboard SYB-120 700pts",
+        "precio": "S/7.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Porta Batería 18650 Plástico",
+        "precio": "S/1.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Porta baterías 18650",
+        "precio": "S/4.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Portabateria 18650 con Cable",
+        "precio": "S/1.40",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Batería LiPo 3.7V 750mAH",
+        "precio": "S/20.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Batería de Li-Ion 806090 3.7V 6000mAH",
+        "precio": "S/36.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Batería de Li-Ion 625068 3.7V 2500mAH",
+        "precio": "S/28.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cargador Balanceador para Baterías LiPo ImaxBC B3 20W 2S 7.4V 3S 11.1V",
+        "precio": "S/33.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Batería LiPo 11.1V 2200mAH 3S",
+        "precio": "S/105.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Batería de Li-Ion 18650 3.7V 1000mAH",
+        "precio": "S/10.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Batería de Li-Ion 18650 3.7V 3000mAH",
+        "precio": "S/30.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Baterías 1.5V LR44",
+        "precio": "S/4.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Batería de Litio 3V CR1220",
+        "precio": "S/3.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Batería 9V Toshiba",
+        "precio": "S/3.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Tornillo con Tuerca 3mmx15mm",
+        "precio": "S/1.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Kit Robot OTTO",
+        "precio": "S/165.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Portapilas 4xAA",
+        "precio": "S/1.80",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Portapilas 4xAA Back to Back",
+        "precio": "S/2.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Portapilas 2xAA",
+        "precio": "S/1.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Portapilas 2xAA con Tapa",
+        "precio": "S/2.20",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo para Carga de Baterías de Litio 4S 30A Li-Ion 14.4V 14.8V 16.8V 18650",
+        "precio": "S/16.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Módulo para Carga de Baterías de Litio 3S 20A Li-Ion 12V 12.6V 18650",
+        "precio": "S/11.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Batería de Li-Ion 18650 3.7V 1600mAH",
+        "precio": "S/12.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Batería LiPo 7.4V 1000mAH",
+        "precio": "S/40.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Conector para Baterías de 3.7V",
+        "precio": "S/1.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Pila CR2 Duracell",
+        "precio": "S/30.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Batería 9V Duracell",
+        "precio": "S/15.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Brazo Robótico 4DOF de Acrílico con Servos",
+        "precio": "S/65.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Set de Engranajes de Plástico para Motores 94pzs",
+        "precio": "S/28.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Set de Engranajes de Plástico para Motores 80pzs",
+        "precio": "S/26.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    }
+]

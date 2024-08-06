@@ -1,0 +1,164 @@
+[
+    {
+        "nombre": "Fuente de Poder Switching 12V 30A",
+        "precio": "S/110.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Fuente de Poder Switching 12V 15A",
+        "precio": "S/75.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Fuente de Poder Switching 5V 3A WELL",
+        "precio": "S/50.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Impresora Térmica Integrada – TTL",
+        "precio": "S/230.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Cámara de Inspección de Endoscopia USB Impermeable 3 en 1",
+        "precio": "S/130.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Powerline Ethernet Adapter 200M",
+        "precio": "S/150.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Pinza de Acero Inoxidable TS-15",
+        "precio": "S/4.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Lector de Tarjetas RFID JT308",
+        "precio": "S/40.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Kit de Fuente de Voltaje Ajustable LM317",
+        "precio": "S/55.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Kit DIY Generador de Señales Función XR2206",
+        "precio": "S/35.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Espuma Metálica para Limpiar Punta de Cautín",
+        "precio": "S/14.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Multímetro Digital DT9205M",
+        "precio": "S/70.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Mini Panel Solar 9V 2W Sin cable",
+        "precio": "S/33.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Puntas de Prueba para Multímetro Digital 1000V 10A",
+        "precio": "S/8.50",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Punta de Prueba para Multímetro LCR Patch Capacitancia e inductancia SMD",
+        "precio": "S/15.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Termostato Digital 110-220Vac STC-1000",
+        "precio": "S/32.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Kit Programador Universal TL866II Pro",
+        "precio": "S/550.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Vernier Digital de Acero Inoxidable 0-150mm",
+        "precio": "S/100.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Termostato Digital 110-220Vac W3230",
+        "precio": "S/26.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Termostato Digital AC110 220V STC-3008",
+        "precio": "S/55.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "SparkFun: Mini Alicate Diagonal",
+        "precio": "S/15.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Fuente de Poder Switching 12V 5A",
+        "precio": "S/60.00",
+        "descuento": "-25%",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Fuente de Poder Switching 12V 10A",
+        "precio": "S/67.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "Fuente de Poder Switching 12V 3A",
+        "precio": "S/35.00",
+        "descuento": "No tiene descuento",
+        "disponible": "Disponible"
+    },
+    {
+        "nombre": "P6100 Sonda de Osciloscopio 100 MHz de 1x-10x",
+        "precio": "S/60.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "SAIKE 898D Estación de Soldar",
+        "precio": "S/280.00",
+        "descuento": "-7%",
+        "disponible": "No disponible"
+    },
+    {
+        "nombre": "Kit Mini Taladro",
+        "precio": "S/65.00",
+        "descuento": "No tiene descuento",
+        "disponible": "No disponible"
+    }
+]
