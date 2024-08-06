@@ -1,4 +1,3 @@
 myvenv/
 # Ignorar archivos con credenciales
-*.env
 credentials/

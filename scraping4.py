@@ -24,10 +24,11 @@ AWS_SECRET_ACCESS_KEY = 'tu AWS_SECRET_ACCESS_KEY'
 REGION_NAME = 'us-east-1'
 
 # Configuración de Odoo
-ODOO_URL = 'https://prueba5.odoo.com/'
-ODOO_DB = 'prueba5'
-ODOO_USERNAME = 'dm@fibertel.com.pe'
-ODOO_PASSWORD = 'Powerbeam.2024##'
+ODOO_URL = 'ODOO_URL'
+ODOO_DB = 'ODOO_DB'
+ODOO_USERNAME = 'ODOO_USERNAME'
+ODOO_PASSWORD = 'ODOO_PASSWORD'
+
 
 # Conecta a la base de datos de Odoo
 common = xmlrpc.client.ServerProxy('{}/xmlrpc/2/common'.format(ODOO_URL))
