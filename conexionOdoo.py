@@ -18,8 +18,8 @@ s3_client = boto3.client(
 # Configura tus credenciales de Odoo
 odoo_url = 'odoo_url'
 odoo_db = 'odoo_db'  # Cambia esto al nombre correcto de tu base de datos
-odoo_username = 'dm@odoo_username.com.pe'
-odoo_password = 'odoo_password.2024##'
+odoo_username = 'odoo_username'
+odoo_password = 'odoo_password'
 
 # Conecta a la base de datos de Odoo
 common = xmlrpc.client.ServerProxy('{}/xmlrpc/2/common'.format(odoo_url))
